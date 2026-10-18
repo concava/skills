@@ -4,6 +4,9 @@
     "name": "Conrad Carbonell",
     "url": "https://github.com/concava"
   },
+  "metadata": {
+    "description": "Conrad's personal Claude Code skills."
+  },
   "plugins": [
     {
       "name": "concava",
