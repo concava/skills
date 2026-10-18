@@ -1,0 +1,14 @@
+{
+  "name": "concava",
+  "owner": {
+    "name": "Conrad Carbonell",
+    "url": "https://github.com/concava"
+  },
+  "plugins": [
+    {
+      "name": "concava",
+      "source": "./",
+      "description": "Conrad's personal skills: codebase architecture and design, code review, design grilling, Codex CLI, motion and UI polish, Agentation setup, and Simplified Technical English rewrites."
+    }
+  ]
+}

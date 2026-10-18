@@ -1,0 +1,11 @@
+{
+  "name": "concava",
+  "version": "0.1.0",
+  "description": "Conrad's personal skills: codebase architecture and design, code review, design grilling, Codex CLI, motion and UI polish, Agentation setup, and Simplified Technical English rewrites.",
+  "author": {
+    "name": "Conrad Carbonell"
+  },
+  "homepage": "https://github.com/concava/skills",
+  "repository": "https://github.com/concava/skills",
+  "keywords": ["skills", "architecture", "code-review", "ui", "motion-design"]
+}
